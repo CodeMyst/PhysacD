@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"CodeMyst"
+	],
+	"copyright": "Copyright © 2021, CodeMyst",
+	"description": "D port of Physac.",
+	"license": "zlib",
+	"name": "physacd",
+    "targetType": "library"
+}

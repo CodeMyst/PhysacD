@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bindbc-loader": "1.0.1",
+		"bindbc-raylib3": "0.5.0"
+	}
+}

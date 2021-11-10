@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"CodeMyst"
+	],
+	"copyright": "Copyright © 2021, CodeMyst",
+	"dependencies": {
+		"bindbc-raylib3": "~>0.5.0"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "physacd"
+}

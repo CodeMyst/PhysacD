@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/physacd
+physacd.so
+physacd.dylib
+physacd.dll
+physacd.a
+physacd.lib
+physacd-test-*
+libphysacd.a
+*.exe
+*.o
+*.obj
+*.lst
